@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+/* ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+} */
+
+ul li{
+display: inline-block;
+}
